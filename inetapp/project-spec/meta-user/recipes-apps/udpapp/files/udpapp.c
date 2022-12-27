@@ -29,7 +29,7 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello this is the time that petalinux boots in zybo z7 10 board yeh!!!!!!");
+    printf("Hello this is the time that petalinux boots in zybo z7 10 board yeh!!!!!!\n");
 
     return 0;
 }
